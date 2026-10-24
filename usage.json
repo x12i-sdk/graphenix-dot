@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/graphenix-dot",
+  "packageVersion": "2.17.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/graphenix-dot",
+  "usageRepository": "https://github.com/x12i-sdk/graphenix-dot",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Convert a small graph document to Graphviz DOT",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:45:27.131111+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "1eaa70a51e7d43dbba1800e111a863a9845759a09f33ee7d4a8a016f06011da0",
+    "manifestSha256": "360f5d63c08f538551fb49a4d67e7144f6510c669ed269fd892f406bd68bcaac"
+  }
+}
